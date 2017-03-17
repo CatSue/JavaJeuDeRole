@@ -12,6 +12,4 @@ import tp.java.jdr.personnages.EtreVivant;
 public interface AttaqueInt {
 
     void Attaque();
-
-    int CalculPoints(EtreVivant cible);
 }
